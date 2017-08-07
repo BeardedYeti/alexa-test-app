@@ -1,0 +1,37 @@
+HelloWorldIntent what is crack in
+HelloWorldIntent what is crack in homey
+HelloWorldIntent hello
+HelloWorldIntent hi
+HelloWorldIntent what is up
+HelloWorldIntent sup
+HelloWorldIntent how are you
+HelloWorldIntent hey
+HelloWorldIntent hail
+HelloWorldIntent greetings
+HelloWorldIntent salutations
+HelloWorldIntent hello sunshine
+HelloWorldIntent howdy
+HelloWorldIntent howdy partner
+HelloWorldIntent how are you
+HelloWorldIntent what is kickin little chicken
+HelloWorldIntent howdy doody
+HelloWorldIntent ahoy matey
+HelloWorldIntent hiya
+HelloWorldIntent hiya it is me immoen
+HelloWorldIntent hello governor
+HelloWorldIntent top of the morning to you
+HelloWorldIntent good morning vietnam
+HelloWorldIntent sup homeslice
+HelloWorldIntent yo
+HelloWorldIntent yo what up
+HelloWorldIntent hey baby
+HelloWorldIntent hey babe
+HelloWorldIntent well hello
+HelloWorldIntent well hello there
+HelloWorldIntent aloha
+HelloWorldIntent hola
+HelloWorldIntent que pasa
+HelloWorldIntent bonjour
+HelloWorldIntent hallo
+HelloWorldIntent ciao
+HelloWorldIntent konnichiwa

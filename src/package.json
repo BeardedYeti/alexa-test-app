@@ -1,0 +1,22 @@
+{
+  "name": "alexa-test-app",
+  "version": "1.0.0",
+  "description": "Hello World Test Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeardedYeti/alexa-test-app.git"
+  },
+  "author": "Colin Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BeardedYeti/alexa-test-app/issues"
+  },
+  "homepage": "https://github.com/BeardedYeti/alexa-test-app#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
